@@ -1,1 +1,1 @@
-# ML-algorithms
+# Diabetes Prediction
